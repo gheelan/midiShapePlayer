@@ -1,2 +1,2 @@
-# midiShapePlayer
+# MidiShapePlayer
 MIDI Shape Player
