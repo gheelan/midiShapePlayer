@@ -5,3 +5,5 @@ MIDI Shape Player
    
    The purpose of this assigment was to practice applying polymorphism, inheritance, and SOLID Design Prinicples such as Single Responsibility, Open/Closed, and Liskov Substitution to an actual codebase. As such, a fully functional application was provided and I was tasked with extending the functionality of the application. Specifically, I needed to create a new shape that could be drawn and played within the application in addition to the original rectangle shape.
    
+Check out the DrawingPlayerDemo file for a short video of the application in action!
+   
